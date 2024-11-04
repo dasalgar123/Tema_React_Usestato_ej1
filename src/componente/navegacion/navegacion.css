@@ -1,0 +1,32 @@
+/* Estilos para la barra de navegación principal */
+.main-Navegacion { 
+    background-color: #333; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex; 
+    justify-content: center; /* Centra los elementos dentro de la barra */
+}
+
+.main-Navegacion ul { 
+    list-style: none; 
+    margin: 0; 
+    padding: 0; 
+    display: flex; /* Alinea los elementos en fila */
+    gap: 20px; /* Espacio entre elementos del menú */
+}
+
+.main-Navegacion ul li { 
+    margin: 0;
+}
+
+.main-Navegacion ul li a { 
+    color: #fff; 
+    font-size: 1.2em; 
+    text-decoration: none;
+}
+
+.main-Navegacion ul li a:hover { 
+    color: #ff5722;
+    text-decoration: underline;
+}

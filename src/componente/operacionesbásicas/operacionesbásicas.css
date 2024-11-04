@@ -1,0 +1,10 @@
+/* Estilos para el componente de Operaciones Básicas */
+.submenu { font-family: Arial, sans-serif; padding: 20px;}
+.submenu h3 { color: #3b5998; font-size: 1.5em; font-weight: bold;}
+.submenu ul {list-style-type: none; padding: 0;}
+.submenu ul li { margin: 10px 0;}
+.submenu ul li a { color: #333; text-decoration: none;}
+.submenu ul li a:hover { color: #1da1f2; text-decoration: underline;}
+
+.titulo{background-color:#00AEEF; margin: 5px; border-radius: 10px; border: 2px solid darkblue;}
+.lista{background-color:#00AEEF; margin: 5px; border-radius: 10px; border: 2px solid darkblue;}

@@ -1,0 +1,16 @@
+/* Estilo de contenedor del Submenú Volumen */
+.submenu { font-family: Arial, sans-serif; background-color:#00AEEF; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);}
+
+/* Título del Submenú */
+.submenu h3 { color: white; font-size: 1.8rem; text-transform: uppercase; border-bottom: 2px solid #00AEEF; padding-bottom: 10px; margin-bottom: 20px;}
+
+/* Lista de enlaces */
+.submenu ul { list-style: none; padding: 0; margin: 0;}
+.submenu li { margin: 10px 0;}
+.submenu a { color: #00AEEF; text-decoration: none; font-size: 1.2rem; font-weight: bold; padding: 8px 12px; display: inline-block; transition: all 0.3s;}
+
+/* Efecto hover en los enlaces */
+.submenu a:hover {background-color: white; color: black; border-radius: 4px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);}
+
+.titulo{background-color:#00AEEF; margin: 5px; border-radius: 10px; border: 2px solid darkblue;}
+.lista{background-color:#00AEEF; margin: 5px; border-radius: 10px; border: 2px solid darkblue;}

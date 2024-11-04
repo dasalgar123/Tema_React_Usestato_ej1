@@ -1,0 +1,9 @@
+/* Estilos para el componente de Problemas de Aplicación */
+.submenu { font-family: Arial, sans-serif; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+.submenu h3 { color: white; font-size: 1.6em; font-weight: bold; margin-bottom: 10px;}
+.submenu ul { list-style-type: none; padding: 0;}
+.submenu ul li { margin: 10px 0;}
+.submenu ul li a { color: #333; font-size: 1.1em; text-decoration: none;}
+.submenu ul li a:hover { color: #2196f3; text-decoration: underline;}
+.titulo{background-color:#00AEEF; margin: 5px; border-radius: 10px; border: 2px solid darkblue;}
+.lista{background-color:#00AEEF; margin: 5px; border-radius: 10px; border: 2px solid darkblue;}

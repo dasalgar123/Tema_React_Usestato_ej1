@@ -1,0 +1,16 @@
+.footer {
+    background-color: #007bff; /* Color de fondo azul */
+    color: white; /* Color de texto blanco */
+    text-align: center; /* Centrar el texto */
+    padding: 20px; /* Espaciado interno */
+    position: relative; /* Posicionamiento relativo */
+}
+
+.footer p {
+    margin: 5px 0; /* Espaciado entre los párrafos */
+    transition: color 0.3s ease; /* Transición suave para el color */
+}
+
+.footer p:hover {
+    color: red; /* Cambiar color a rojo al pasar el mouse */
+}

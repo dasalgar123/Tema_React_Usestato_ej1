@@ -1,0 +1,8 @@
+.submenu { margin: 20px; padding: 10px;  background-color: #f9f9f9;  border: 1px solid #ccc; border-radius: 5px; }
+h3 { color: #007bff; text-align: center;}
+ul { list-style-type: none; padding: 0;}
+li { margin: 10px 0;}
+a { text-decoration: none; color: #333; transition: color 0.3s; }
+a:hover { color: #007bff;}
+.titulo{background-color:#00AEEF; margin: 5px; border-radius: 10px; border: 2px solid darkblue;}
+.lista{background-color:#00AEEF; margin: 5px; border-radius: 10px; border: 2px solid darkblue;}
